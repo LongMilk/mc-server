@@ -1,0 +1,28 @@
+lastAccountName: Rip_Van_Dam
+timestamps:
+  login: 1576557892945
+  logout: 1576557973216
+  lastteleport: 1576557943183
+ipAddress: 155.48.255.190
+logoutlocation:
+  world: world
+  x: -198.5
+  y: 64.0
+  z: 200.5
+  yaw: 3.1499999
+  pitch: 16.050007
+lastlocation:
+  world: world
+  x: -94.89838866678105
+  y: 79.41999998688698
+  z: 639.2261442859583
+  yaw: 207.63019
+  pitch: 56.850334
+homes:
+  home:
+    world: world
+    x: -116.48638864136113
+    y: 116.0
+    z: 674.5133666060974
+    yaw: 16.230541
+    pitch: 28.950373
