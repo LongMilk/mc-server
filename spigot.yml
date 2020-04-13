@@ -12,6 +12,7 @@
 
 config-version: 12
 settings:
+  log-villager-deaths: true
   save-user-cache-on-stop-only: false
   bungeecord: false
   sample-count: 12
@@ -59,6 +60,7 @@ stats:
   forced-stats: {}
 world-settings:
   default:
+    trident-despawn-rate: 1200
     verbose: true
     mob-spawn-range: 6
     hopper-amount: 1
