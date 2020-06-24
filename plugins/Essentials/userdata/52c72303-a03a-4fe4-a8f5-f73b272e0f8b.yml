@@ -1,22 +1,30 @@
 lastAccountName: imgivingbirth
 timestamps:
-  login: 1586189517854
-  logout: 1586189922271
-  lastteleport: 1586073211007
+  login: 1592718539595
+  logout: 1592722968822
+  lastteleport: 1592722914081
 ipAddress: 47.28.105.51
 logoutlocation:
   world: piss
-  x: 375.4932426432193
-  y: 63.0
-  z: 411.3930145136996
-  yaw: -35.415497
-  pitch: 28.950037
-nickname: mich
+  x: -2260.2271828648068
+  y: 62.07319337129593
+  z: -1943.3359262432512
+  yaw: 22.237501
+  pitch: 12.449955
+nickname: §2arugulawhore
 lastlocation:
   world: piss
-  x: 365.3350335928392
-  y: 64.0
-  z: 419.1055628414688
-  yaw: 12.145264
-  pitch: 6.6001525
+  x: -67.01364833841349
+  y: 70.0
+  z: 1012.623778791953
+  yaw: -90.04794
+  pitch: 21.138796
 afk: false
+homes:
+  home:
+    world: piss
+    x: -65.24076065249682
+    y: 75.0625
+    z: 1014.3214170228144
+    yaw: 46.45227
+    pitch: 7.938812

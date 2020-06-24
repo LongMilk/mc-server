@@ -1,21 +1,22 @@
 lastAccountName: LongMilk
 timestamps:
-  login: 1586058080395
-  logout: 1586059772874
-  lastteleport: 1586059655482
+  login: 1593014443708
+  logout: 1593014449527
+  lastteleport: 1593014386661
 ipAddress: 23.119.143.3
 logoutlocation:
   world: piss
-  x: -262.4968568194143
-  y: 64.0
-  z: 301.0238203330979
-  yaw: -223.70917
-  pitch: 51.150047
-nickname: §5josue
+  x: -38.54189220091277
+  y: 63.0
+  z: 1040.3062303500417
+  yaw: 84.30641
+  pitch: 30.30285
+nickname: §dsandwhore
 lastlocation:
-  world: piss
-  x: -341.329586809228
-  y: 74.0
-  z: 329.0487909512086
-  yaw: 326.04028
-  pitch: 22.199919
+  world: piss_nether
+  x: 1101.5
+  y: 60.0
+  z: 113.5
+  yaw: 289.1778
+  pitch: 21.899967
+afk: false

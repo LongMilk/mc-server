@@ -1,30 +1,30 @@
 lastAccountName: okimbaby
 timestamps:
-  login: 1586058119465
-  lastteleport: 1586061594199
-  logout: 1586062900872
+  login: 1592717589692
+  lastteleport: 1592722952620
+  logout: 1592722968918
 ipAddress: 76.246.76.9
 lastlocation:
   world: piss
-  x: -255.8554694000025
-  y: 62.9375
-  z: 271.3786871558268
-  yaw: -5.1521606
-  pitch: 10.928197
+  x: -66.5
+  y: 75.0625002
+  z: 1017.5
+  yaw: 0.0
+  pitch: 0.0
 nickname: hamwhore
 homes:
   home:
     world: piss
-    x: -248.40273606652053
-    y: 63.0
-    z: 276.68991828077014
-    yaw: -112.84524
-    pitch: 9.969593
+    x: -65.55742517834419
+    y: 75.0625
+    z: 1014.785473546095
+    yaw: -312.51556
+    pitch: -0.68483615
 logoutlocation:
   world: piss
-  x: 379.29190038599796
-  y: 63.0
-  z: 415.0808007674452
-  yaw: -205.46974
-  pitch: -5.3682137
+  x: -2260.53564453125
+  y: 62.07319337129593
+  z: -1942.8212890625
+  yaw: -30.222004
+  pitch: 11.777193
 afk: false
